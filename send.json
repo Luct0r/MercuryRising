@@ -1,0 +1,17 @@
+[
+    {
+      "email": "sender1@domain.com",
+      "password": "your_password_here",
+      "display_name": "John Smith"
+    },
+    {
+      "email": "sender2@domain.com", 
+      "password": "another_password",
+      "display_name": "Jane Doe"
+    },
+    {
+      "email": "sender3@domain.com",
+      "password": "third_password", 
+      "display_name": "Smith John"
+    }
+]
