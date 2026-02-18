@@ -1,0 +1,19 @@
+[
+  "recipient1@example.com",
+  "recipient2@example.com", 
+  "recipient3@example.com",
+  "recipient4@example.com"
+]
+
+OR
+
+[
+    {
+        "email": "recipient1@example.com",
+        "name": "John Recipient"
+    },
+    {
+        "email": "recipient2@example.com",
+        "name": "Jane Recipient"
+    }
+]
